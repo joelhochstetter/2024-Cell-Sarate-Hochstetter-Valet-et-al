@@ -13,10 +13,6 @@ Details of the model can be found in the Supplemental Theory (Methods S1).
   - control: Fitting S and S+D model to control data
   - ablation: Fitting S and S+D model to ablation data and computing T1 transition rates
 
-
-
-
-
 ## Dependencies
 
 python3.8.1 used for the paper 
@@ -34,5 +30,4 @@ python3.8.1 used for the paper
 - sortedcontainers
 - tabulate
 
-
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12629079.svg)](https://doi.org/10.5281/zenodo.12629079)
