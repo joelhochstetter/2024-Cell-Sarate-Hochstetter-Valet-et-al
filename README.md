@@ -1,7 +1,6 @@
 # 2024-Cell-Sarate-Hochstetter-Valet
 
-This repository contains the code to run simulations and produce figures for Sarate, Hochstetter, Valet, et al, Dynamic regulation of tissue
-fluidity controls skin repair during wound healing, Cell 2024.
+This repository contains the code to run simulations and produce figures for the modelling part (Figures 3 and Supplementary Figure 3) of Sarate, Hochstetter, Valet, et al., Dynamic regulation of tissue fluidity controls skin repair during wound healing, Cell (2024), https://doi.org/10.1016/j.cell.2024.07.031
 
 Details of the model can be found in the Supplemental Theory.
 
