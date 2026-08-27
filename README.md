@@ -31,3 +31,9 @@ python3.8.1 used for the paper
 - tabulate
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12629079.svg)](https://doi.org/10.5281/zenodo.12629079)
+
+## License
+
+This code is available under a [Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
+This license strictly prohibits commercial use of the code or derivatives. This includes the prohibition to use the code for the training of AI models for any commercial purpose. Any research, academic, or personal use is permitted.
